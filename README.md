@@ -1,2 +1,2 @@
 # População Mundial
-Análise Exploratória com dados sobre a demoografia global.
+Análise Exploratória com dados sobre a demografia global.
